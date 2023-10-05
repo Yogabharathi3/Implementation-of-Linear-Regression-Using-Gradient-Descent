@@ -115,12 +115,25 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 ## Output:
 # Profit Prediction graph
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/9420b984-95ec-4511-94f3-6cfe6de24cdf)
+
 # Compute Cost Value
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/281c0ca6-2adf-41f8-a4f7-29d40ceebef8)
+
 # h(x) Value
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/571f455d-598a-43ac-a56e-bd491d87d16d)
+
 # Cost function using Gradient Descent Graph
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/a8c2100c-c1cc-45c0-9011-8bb1419fe745)
+
 # Profit Prediction Graph
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/2a53de61-30e2-4618-bcc2-fbd0fab9caa8)
+
 # Profit for the Population 35,000
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/384629e7-4ec6-430e-af64-14cc73366015)
+
 # Profit for the Population 70,000
+![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/c7ce01d7-a54a-485d-ab17-8206b666896f)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
