@@ -114,11 +114,13 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
-![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/d5de69fa-24bd-44cc-ac71-d4f481f7274a)
-![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/3a267d60-5d18-4554-a92b-82cb1edc2bed)
-![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/3d4f718e-cae9-4b1d-8a30-f5b859916f84)
-![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/eb1064ba-aebc-4a4d-acf2-f40c58c37300)
-![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/c3d13bf9-f3ed-4d81-ab3a-9b859a5bdcc2)
+# Profit Prediction graph
+# Compute Cost Value
+# h(x) Value
+# Cost function using Gradient Descent Graph
+# Profit Prediction Graph
+# Profit for the Population 35,000
+# Profit for the Population 70,000
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
